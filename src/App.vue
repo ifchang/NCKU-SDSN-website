@@ -1,11 +1,8 @@
-<script setup>
-import { RouterLink, RouterView } from "vue-router";
-import HelloWorld from "./components/HelloWorld.vue";
-</script>
+<script setup></script>
 
 <template>
   <header>
-    <nav>1111</nav>
+    <nav>111111</nav>
   </header>
 </template>
 
